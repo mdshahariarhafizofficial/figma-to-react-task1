@@ -11,3 +11,10 @@
 body{
     font-family: "Inter", sans-serif;
 }
+
+.collapse-title::after{
+  color: #aab6b5;
+  inset-inline-end: 0.5rem;
+  height: 0.8rem;
+  width: 0.8rem;
+}
